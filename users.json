@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "name": "Ana",
+    "penaltyPoint": 0,
+    "borrowedBooks": [
+      {
+        "bookId": 21,
+        "title": "The Road",
+        "dateBorrowed": "2025-06-25",
+        "dueDate": "2025-07-09",
+        "returnDate": null
+      },
+      {
+        "bookId": 13,
+        "title": "Emma",
+        "dateBorrowed": "2025-04-10",
+        "dueDate": "2025-04-24",
+        "returnDate": "2025-0-15"
+      },
+      {
+        "bookId": 19,
+        "title": "Sapiens",
+        "dateBorrowed": "2025-03-25",
+        "dueDate": "2025-04-09",
+        "returnDate": "2025-04-02"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lika",
+    "penaltyPoint": -10,
+    "borrowedBooks": [
+      {
+        "bookId": 1,
+        "title": "1984",
+        "dateBorrowed": "2025-07-01",
+        "dueDate": "2025-07-15",
+        "returnDate": null
+      },
+      {
+        "bookId": 13,
+        "title": "Emma",
+        "dateBorrowed": "2025-05-10",
+        "dueDate": "2025-05-24",
+        "returnDate": "2025-05-27"
+      },
+      {
+        "bookId": 26,
+        "title": "Atomic Habits",
+        "dateBorrowed": "2025-04-06",
+        "dueDate": "2025-04-20",
+        "returnDate": "2025-04-25"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Giorgi",
+    "penaltyPoint": 0,
+    "borrowedBooks": [
+      {
+        "bookId": 7,
+        "title": "The Hobbit",
+        "dateBorrowed": "2025-07-06",
+        "dueDate": "2025-07-21",
+        "returnDate": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mariami",
+    "penaltyPoint": 0,
+    "borrowedBooks": [
+      {
+        "bookId": 7,
+        "title": "The Hobbit",
+        "dateBorrowed": "2025-05-06",
+        "dueDate": "2025-05-21",
+        "returnDate": "2025-05-12"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Daviti",
+    "penaltyPoint": -10,
+    "borrowedBooks": [
+      {
+        "bookId": 9,
+        "title": "Dune",
+        "dateBorrowed": "2025-07-07",
+        "dueDate": "2025-07-21",
+        "returnDate": null
+      },
+      {
+        "bookId": 17,
+        "title": "A Game of Thrones",
+        "dateBorrowed": "2025-07-04",
+        "dueDate": "2025-07-18",
+        "returnDate": null
+      },
+      {
+        "bookId": 4,
+        "title": "ვეფხისტყაოსანი",
+        "dateBorrowed": "2025-02-02",
+        "dueDate": "2025-02-16",
+        "returnDate": "2025-02-19"
+      },
+      {
+        "bookId": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "dateBorrowed": "2025-01-01",
+        "dueDate": "2025-01-15",
+        "returnDate": "2025-01-17"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Nini",
+    "penaltyPoint": 0,
+    "borrowedBooks": [
+      {
+        "bookId": 27,
+        "title": "Me Before You",
+        "dateBorrowed": "2025-07-05",
+        "dueDate": "2025-07-19",
+        "returnDate": null
+      },
+      {
+        "bookId": 23,
+        "title": "Les Misérables",
+        "dateBorrowed": "2025-07-04",
+        "dueDate": "2025-07-18",
+        "returnDate": null
+      },
+      {
+        "bookId": 1,
+        "title": "1984",
+        "dateBorrowed": "2025-06-14",
+        "dueDate": "2025-06-28",
+        "returnDate": "2025-06-22"
+      },
+      {
+        "bookId": 4,
+        "title": "ვეფხისტყაოსანი",
+        "dateBorrowed": "2025-04-02",
+        "dueDate": "2025-04-16",
+        "returnDate": "2025-04-10"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Luka",
+    "penaltyPoint": -5,
+    "borrowedBooks": [
+      {
+        "bookId": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "dateBorrowed": "2025-06-28",
+        "dueDate": "2025-07-12",
+        "returnDate": null
+      },
+      {
+        "bookId": 3,
+        "title": "The Great Gatsby",
+        "dateBorrowed": "2025-05-10",
+        "dueDate": "2025-05-24",
+        "returnDate": "2025-06-24"
+      },
+      {
+        "bookId": 17,
+        "title": "A Game of Thrones",
+        "dateBorrowed": "2025-03-02",
+        "dueDate": "2025-03-16",
+        "returnDate": "2025-03-12"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Rezi",
+    "penaltyPoint": -5,
+    "borrowedBooks": [
+      {
+        "bookId": 26,
+        "title": "Atomic Habits",
+        "dateBorrowed": "2025-07-06",
+        "dueDate": "2025-07-20",
+        "returnDate": null
+      },
+      {
+        "bookId": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "dateBorrowed": "2025-03-01",
+        "dueDate": "2025-03-15",
+        "returnDate": "2025-03-19"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Kato",
+    "penaltyPoint": -5,
+    "borrowedBooks": [
+      {
+        "bookId": 4,
+        "title": "ვეფხისტყაოსანი",
+        "dateBorrowed": "2025-05-06",
+        "dueDate": "2025-05-20",
+        "returnDate": "2025-05-28"
+      },
+      {
+        "bookId": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "dateBorrowed": "2025-01-01",
+        "dueDate": "2025-01-15",
+        "returnDate": "2025-01-12"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Guga",
+    "penaltyPoint": 0,
+    "borrowedBooks": [
+      {
+        "bookId": 18,
+        "title": "The Brothers Karamazov",
+        "dateBorrowed": "2025-07-08",
+        "dueDate": "2025-07-23",
+        "returnDate": null
+      },
+      {
+        "bookId": 17,
+        "title": "A Game of Thrones",
+        "dateBorrowed": "2025-02-02",
+        "dueDate": "2025-02-16",
+        "returnDate": "2025-02-10"
+      }
+    ]
+  }
+]
